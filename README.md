@@ -1,2 +1,2 @@
-# ACMer
-May I noob in algorthm
+# ACM
+May I  noob in algorthm
